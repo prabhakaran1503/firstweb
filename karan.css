@@ -1,0 +1,18 @@
+body {
+    background-color: #f9f9f9; /* Light background for the whole page */
+  }
+  
+  header {
+    background-color: hsl(0, 100%, 50%); /* Blue background for the header */
+    color: white;
+  }
+  
+  section {
+    background-color: #ffffff; /* White background for all sections */
+  }
+  
+  footer {
+    background-color: #1a3976; /* Dark background for the footer */
+    color: white;
+  }
+  
